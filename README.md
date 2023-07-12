@@ -6,7 +6,7 @@ The code review section is especially useful for folks doing code review not jus
 
 The repo is divided in few sections to focus on different areas as below:
 #### Basic security questions [here](https://github.com/Jkrathod/AppSec-InterviewPreparation/blob/main/Common_Security_Questions.md) 
-#### Code review questions [here](https://github.com/tahmed11/appsec_interview/blob/master/code_review/README.md)
-#### Coding questions [here](https://github.com/tahmed11/appsec_interview/blob/master/Coding/README.md)
-#### AWS Security questions [here](https://github.com/tahmed11/appsec_interview/blob/master/AWS_Security_Questions.md)
-#### Non-technical/Leadership interview questions [here](https://github.com/tahmed11/appsec_interview/blob/master/Leadership_Questions.md)
+#### Code review questions [here](https://github.com/Jkrathod/AppSec-InterviewPreparation/blob/master/code_review/README.md)
+#### Coding questions [here](https://github.com/Jkrathod/AppSec-InterviewPreparation/blob/master/Coding/README.md)
+#### AWS Security questions [here](https://github.com/Jkrathod/AppSec-InterviewPreparation/blob/master/AWS_Security_Questions.md)
+#### Non-technical/Leadership interview questions [here](https://github.com/Jkrathod/AppSec-InterviewPreparation/blob/master/Leadership_Questions.md)
