@@ -5,7 +5,7 @@ Lot of materials only include questions and doesnt include answers. Hence i comp
 The code review section is especially useful for folks doing code review not just preparing for interviews. 
 
 The repo is divided in few sections to focus on different areas as below:
-#### Basic security questions [Common_Security_Questions.md 
+#### Basic security questions [Common_Security_Questions.md](https://github.com/Jkrathod/AppSec-InterviewPreparation) 
 #### Code review questions [here](https://github.com/tahmed11/appsec_interview/blob/master/code_review/README.md)
 #### Coding questions [here](https://github.com/tahmed11/appsec_interview/blob/master/Coding/README.md)
 #### AWS Security questions [here](https://github.com/tahmed11/appsec_interview/blob/master/AWS_Security_Questions.md)
