@@ -1,4 +1,4 @@
-# AppSec-InterviewPreparation
+# AppSec-Talk
 
 The purpose of this document is to help security folks prepare for common security interview questions and answers. 
 Lot of materials only include questions and doesnt include answers. Hence i compiled the resources together. 
